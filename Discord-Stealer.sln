@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{B0023190-A75C-4372-BCB0-F312690E764F}") = "Discord Stealer", "Discord-Stealer/Discord Stealer.csproj", "{1E1A06AA-AAEA-4951-A3C8-948332137E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E1A06AA-AAEA-4951-A3C8-948332137E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1A06AA-AAEA-4951-A3C8-948332137E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1A06AA-AAEA-4951-A3C8-948332137E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1A06AA-AAEA-4951-A3C8-948332137E20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {020F4983-6D10-4657-8177-22A5F7AF1B00}
+	EndGlobalSection
+EndGlobal
